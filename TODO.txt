@@ -1,0 +1,18 @@
+
+maybe play around a little more with the probability theory stuff. It is just confusing as hell
+
+much easier to use compute / pseudo-randomness to simulate out against discrete logic. I.e. rules of risk.
+
+TODO : chained probability map... some type of action / state machine / markov chain / stochastic process.
+
+Not sure exactly what fits. But use the intuition to try and build out an estimate / probability of success at each turn. 
+
+This is still very logic based. but at each turn calculate the probabilty of success given the number of troops you have availabile, and the number of troops the enemy has available.
+
+If you want to correlate or associate some likelihood of the defender only rolling with 1 dice in t+1, that would complicate the model
+if we want to for now, we can just assume the defender acts rationally, and uses as many dice as they can. In all future rolls. However, for us to calculate at each turn the prob of success
+there will be base cases, there will be a distinct set up 
+
+https://faculty.ozyegin.edu.tr/baristan/files/2024/05/MMrisk97.pdf 
+
+read this paper bro - they already did this stuff. 
