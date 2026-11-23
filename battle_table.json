@@ -1,0 +1,9702 @@
+[
+  {
+    "i": 1,
+    "j": 1,
+    "p_attacker_win": 0.4166666666666667,
+    "num_chains": 2,
+    "num_absorbing_states": 2,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 1,
+        "prob": 0.5833333333333334
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.4166666666666667
+      }
+    ]
+  },
+  {
+    "i": 1,
+    "j": 2,
+    "p_attacker_win": 0.10609567901234568,
+    "num_chains": 3,
+    "num_absorbing_states": 3,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 1,
+        "prob": 0.7453703703703703
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 1,
+        "prob": 0.14853395061728394
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.10609567901234568
+      }
+    ]
+  },
+  {
+    "i": 1,
+    "j": 3,
+    "p_attacker_win": 0.02701510345221765,
+    "num_chains": 4,
+    "num_absorbing_states": 4,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 1,
+        "prob": 0.7453703703703703
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 1,
+        "prob": 0.18979338134430726
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 1,
+        "prob": 0.03782114483310471
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.02701510345221765
+      }
+    ]
+  },
+  {
+    "i": 1,
+    "j": 4,
+    "p_attacker_win": 0.006878845786444309,
+    "num_chains": 5,
+    "num_absorbing_states": 5,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 1,
+        "prob": 0.7453703703703703
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 1,
+        "prob": 0.18979338134430726
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 1,
+        "prob": 0.04832701839785602
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 1,
+        "prob": 0.009630384101022033
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.006878845786444309
+      }
+    ]
+  },
+  {
+    "i": 1,
+    "j": 5,
+    "p_attacker_win": 0.0017515579548816526,
+    "num_chains": 6,
+    "num_absorbing_states": 6,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 1,
+        "prob": 0.7453703703703703
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 1,
+        "prob": 0.18979338134430726
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 1,
+        "prob": 0.04832701839785602
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 1,
+        "prob": 0.012305490795750374
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 1,
+        "prob": 0.0024521811368343137
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.0017515579548816526
+      }
+    ]
+  },
+  {
+    "i": 1,
+    "j": 6,
+    "p_attacker_win": 0.0004459985533263468,
+    "num_chains": 7,
+    "num_absorbing_states": 7,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 1,
+        "prob": 0.7453703703703703
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 1,
+        "prob": 0.18979338134430726
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 1,
+        "prob": 0.04832701839785602
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 1,
+        "prob": 0.012305490795750374
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 1,
+        "prob": 0.0031333425637327344
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 1,
+        "prob": 0.0006243979746568854
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.0004459985533263468
+      }
+    ]
+  },
+  {
+    "i": 1,
+    "j": 7,
+    "p_attacker_win": 0.00011356444644883829,
+    "num_chains": 8,
+    "num_absorbing_states": 8,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 1,
+        "prob": 0.7453703703703703
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 1,
+        "prob": 0.18979338134430726
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 1,
+        "prob": 0.04832701839785602
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 1,
+        "prob": 0.012305490795750374
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 1,
+        "prob": 0.0031333425637327344
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 1,
+        "prob": 0.0007978418565060203
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 1,
+        "prob": 0.00015899022502837361
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.00011356444644883829
+      }
+    ]
+  },
+  {
+    "i": 1,
+    "j": 8,
+    "p_attacker_win": 2.8916872938361603e-05,
+    "num_chains": 9,
+    "num_absorbing_states": 9,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          8
+        ],
+        "num_chains": 1,
+        "prob": 0.7453703703703703
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 1,
+        "prob": 0.18979338134430726
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 1,
+        "prob": 0.04832701839785602
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 1,
+        "prob": 0.012305490795750374
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 1,
+        "prob": 0.0031333425637327344
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 1,
+        "prob": 0.0007978418565060203
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 1,
+        "prob": 0.00020315417642514407
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 1,
+        "prob": 4.0483622113706245e-05
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 2.8916872938361603e-05
+      }
+    ]
+  },
+  {
+    "i": 1,
+    "j": 9,
+    "p_attacker_win": 7.363092646342075e-06,
+    "num_chains": 10,
+    "num_absorbing_states": 10,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          9
+        ],
+        "num_chains": 1,
+        "prob": 0.7453703703703703
+      },
+      {
+        "state": [
+          0,
+          8
+        ],
+        "num_chains": 1,
+        "prob": 0.18979338134430726
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 1,
+        "prob": 0.04832701839785602
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 1,
+        "prob": 0.012305490795750374
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 1,
+        "prob": 0.0031333425637327344
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 1,
+        "prob": 0.0007978418565060203
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 1,
+        "prob": 0.00020315417642514407
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 1,
+        "prob": 5.172907270084687e-05
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 1,
+        "prob": 1.0308329704878904e-05
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 7.363092646342075e-06
+      }
+    ]
+  },
+  {
+    "i": 1,
+    "j": 10,
+    "p_attacker_win": 1.8748615534667321e-06,
+    "num_chains": 11,
+    "num_absorbing_states": 11,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          10
+        ],
+        "num_chains": 1,
+        "prob": 0.7453703703703703
+      },
+      {
+        "state": [
+          0,
+          9
+        ],
+        "num_chains": 1,
+        "prob": 0.18979338134430726
+      },
+      {
+        "state": [
+          0,
+          8
+        ],
+        "num_chains": 1,
+        "prob": 0.04832701839785602
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 1,
+        "prob": 0.012305490795750374
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 1,
+        "prob": 0.0031333425637327344
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 1,
+        "prob": 0.0007978418565060203
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 1,
+        "prob": 0.00020315417642514407
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 1,
+        "prob": 5.172907270084687e-05
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 1,
+        "prob": 1.3171754622900824e-05
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 1,
+        "prob": 2.6248061748534247e-06
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 1.8748615534667321e-06
+      }
+    ]
+  },
+  {
+    "i": 2,
+    "j": 1,
+    "p_attacker_win": 0.7542438271604939,
+    "num_chains": 3,
+    "num_absorbing_states": 3,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 1,
+        "prob": 0.24575617283950618
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.17554012345679013
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.5787037037037037
+      }
+    ]
+  },
+  {
+    "i": 2,
+    "j": 2,
+    "p_attacker_win": 0.3626543209876543,
+    "num_chains": 4,
+    "num_absorbing_states": 4,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 1,
+        "prob": 0.44830246913580246
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 1,
+        "prob": 0.18904320987654322
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.13503086419753085
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.22762345679012347
+      }
+    ]
+  },
+  {
+    "i": 2,
+    "j": 3,
+    "p_attacker_win": 0.2060664461400701,
+    "num_chains": 7,
+    "num_absorbing_states": 5,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 1,
+        "prob": 0.44830246913580246
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 1,
+        "prob": 0.24155521262002744
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 2,
+        "prob": 0.10407587210409998
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.0743399086457857
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.1317265374942844
+      }
+    ]
+  },
+  {
+    "i": 2,
+    "j": 4,
+    "p_attacker_win": 0.09130352480037765,
+    "num_chains": 9,
+    "num_absorbing_states": 6,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 1,
+        "prob": 0.44830246913580246
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 1,
+        "prob": 0.24155521262002744
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 2,
+        "prob": 0.16355127203678302
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 2,
+        "prob": 0.05528752140700943
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.039491086719292454
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.0518124380810852
+      }
+    ]
+  },
+  {
+    "i": 2,
+    "j": 5,
+    "p_attacker_win": 0.049134812377798834,
+    "num_chains": 13,
+    "num_absorbing_states": 7,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 1,
+        "prob": 0.44830246913580246
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 1,
+        "prob": 0.24155521262002744
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 2,
+        "prob": 0.16355127203678302
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 2,
+        "prob": 0.07064516624228984
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 3,
+        "prob": 0.02681106758729842
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.019150762562356014
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.029984049815442823
+      }
+    ]
+  },
+  {
+    "i": 2,
+    "j": 6,
+    "p_attacker_win": 0.02135045845460008,
+    "num_chains": 16,
+    "num_absorbing_states": 8,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 1,
+        "prob": 0.44830246913580246
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 1,
+        "prob": 0.24155521262002744
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 2,
+        "prob": 0.16355127203678302
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 2,
+        "prob": 0.07064516624228984
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 3,
+        "prob": 0.041215996439094245
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 3,
+        "prob": 0.013379425071402927
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.009556732193859234
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.011793726260740845
+      }
+    ]
+  },
+  {
+    "i": 2,
+    "j": 7,
+    "p_attacker_win": 0.01132877241037633,
+    "num_chains": 21,
+    "num_absorbing_states": 9,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 1,
+        "prob": 0.44830246913580246
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 1,
+        "prob": 0.24155521262002744
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 2,
+        "prob": 0.16355127203678302
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 2,
+        "prob": 0.07064516624228984
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 3,
+        "prob": 0.041215996439094245
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 3,
+        "prob": 0.017095932035681518
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 4,
+        "prob": 0.006305179079945158
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 4,
+        "prob": 0.00450369934281797
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.006825073067558359
+      }
+    ]
+  },
+  {
+    "i": 2,
+    "j": 8,
+    "p_attacker_win": 0.004896668450320629,
+    "num_chains": 25,
+    "num_absorbing_states": 10,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          8
+        ],
+        "num_chains": 1,
+        "prob": 0.44830246913580246
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 1,
+        "prob": 0.24155521262002744
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 2,
+        "prob": 0.16355127203678302
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 2,
+        "prob": 0.07064516624228984
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 3,
+        "prob": 0.041215996439094245
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 3,
+        "prob": 0.017095932035681518
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 4,
+        "prob": 0.009640287445420781
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 4,
+        "prob": 0.003096995594580078
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 4,
+        "prob": 0.002212139710414341
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.002684528739906288
+      }
+    ]
+  },
+  {
+    "i": 2,
+    "j": 9,
+    "p_attacker_win": 0.0025880655460610563,
+    "num_chains": 31,
+    "num_absorbing_states": 11,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          9
+        ],
+        "num_chains": 1,
+        "prob": 0.44830246913580246
+      },
+      {
+        "state": [
+          0,
+          8
+        ],
+        "num_chains": 1,
+        "prob": 0.24155521262002744
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 2,
+        "prob": 0.16355127203678302
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 2,
+        "prob": 0.07064516624228984
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 3,
+        "prob": 0.041215996439094245
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 3,
+        "prob": 0.017095932035681518
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 4,
+        "prob": 0.009640287445420781
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 4,
+        "prob": 0.003957272148630099
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 5,
+        "prob": 0.0014483263502095512
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.0010345188215782509
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.0015535467244828054
+      }
+    ]
+  },
+  {
+    "i": 2,
+    "j": 10,
+    "p_attacker_win": 0.0011169827868488034,
+    "num_chains": 36,
+    "num_absorbing_states": 12,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          10
+        ],
+        "num_chains": 1,
+        "prob": 0.44830246913580246
+      },
+      {
+        "state": [
+          0,
+          9
+        ],
+        "num_chains": 1,
+        "prob": 0.24155521262002744
+      },
+      {
+        "state": [
+          0,
+          8
+        ],
+        "num_chains": 2,
+        "prob": 0.16355127203678302
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 2,
+        "prob": 0.07064516624228984
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 3,
+        "prob": 0.041215996439094245
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 3,
+        "prob": 0.017095932035681518
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 4,
+        "prob": 0.009640287445420781
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 4,
+        "prob": 0.003957272148630099
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 5,
+        "prob": 0.0022111196041153442
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 5,
+        "prob": 0.0007082895053064599
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.0005059210752188999
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.0006110617116299035
+      }
+    ]
+  },
+  {
+    "i": 3,
+    "j": 1,
+    "p_attacker_win": 0.9163746356310014,
+    "num_chains": 4,
+    "num_absorbing_states": 4,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 1,
+        "prob": 0.08362536436899863
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.059732403120713304
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.19692001028806586
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.6597222222222222
+      }
+    ]
+  },
+  {
+    "i": 3,
+    "j": 2,
+    "p_attacker_win": 0.6559539998031296,
+    "num_chains": 7,
+    "num_absorbing_states": 5,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 1,
+        "prob": 0.218070678059747
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 2,
+        "prob": 0.1259753221371234
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.08998237295508815
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.1943152482472184
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.37165637860082307
+      }
+    ]
+  },
+  {
+    "i": 3,
+    "j": 3,
+    "p_attacker_win": 0.47025109174719065,
+    "num_chains": 12,
+    "num_absorbing_states": 6,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 1,
+        "prob": 0.218070678059747
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 2,
+        "prob": 0.2060568016296141
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 3,
+        "prob": 0.10562142856344825
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.07544387754532017
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.14961724220827194
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.24518997199359854
+      }
+    ]
+  },
+  {
+    "i": 3,
+    "j": 4,
+    "p_attacker_win": 0.31499433185017084,
+    "num_chains": 19,
+    "num_absorbing_states": 7,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 1,
+        "prob": 0.218070678059747
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 2,
+        "prob": 0.2060568016296141
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 3,
+        "prob": 0.1762948671037401
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 5,
+        "prob": 0.08458332135672798
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.06041665811194856
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.11644920998354395
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.13812846375467833
+      }
+    ]
+  },
+  {
+    "i": 3,
+    "j": 5,
+    "p_attacker_win": 0.2059418663516619,
+    "num_chains": 27,
+    "num_absorbing_states": 8,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 1,
+        "prob": 0.218070678059747
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 2,
+        "prob": 0.2060568016296141
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 3,
+        "prob": 0.1762948671037401
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 5,
+        "prob": 0.13509921805014882
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 6,
+        "prob": 0.05853656880508811
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 6,
+        "prob": 0.04181183486077722
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.07300361443050661
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.09112641706037805
+      }
+    ]
+  },
+  {
+    "i": 3,
+    "j": 6,
+    "p_attacker_win": 0.13369846461860133,
+    "num_chains": 39,
+    "num_absorbing_states": 9,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 1,
+        "prob": 0.218070678059747
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 2,
+        "prob": 0.2060568016296141
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 3,
+        "prob": 0.1762948671037401
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 5,
+        "prob": 0.13509921805014882
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 6,
+        "prob": 0.09015882835917176
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 9,
+        "prob": 0.04062114217897691
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 9,
+        "prob": 0.02901510155641208
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.05334703844143046
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.05133632462075879
+      }
+    ]
+  },
+  {
+    "i": 3,
+    "j": 7,
+    "p_attacker_win": 0.08374182097440004,
+    "num_chains": 51,
+    "num_absorbing_states": 10,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 1,
+        "prob": 0.218070678059747
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 2,
+        "prob": 0.2060568016296141
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 3,
+        "prob": 0.1762948671037401
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 5,
+        "prob": 0.13509921805014882
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 6,
+        "prob": 0.09015882835917176
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 9,
+        "prob": 0.06428328151889871
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 10,
+        "prob": 0.02629450430427948
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 10,
+        "prob": 0.018781788788771056
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 4,
+        "prob": 0.031092318026100622
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.03386771415952837
+      }
+    ]
+  },
+  {
+    "i": 3,
+    "j": 8,
+    "p_attacker_win": 0.05350228567350633,
+    "num_chains": 69,
+    "num_absorbing_states": 11,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          8
+        ],
+        "num_chains": 1,
+        "prob": 0.218070678059747
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 2,
+        "prob": 0.2060568016296141
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 3,
+        "prob": 0.1762948671037401
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 5,
+        "prob": 0.13509921805014882
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 6,
+        "prob": 0.09015882835917176
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 9,
+        "prob": 0.06428328151889871
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 10,
+        "prob": 0.03930795630845396
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 14,
+        "prob": 0.017226083296719236
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 14,
+        "prob": 0.01230434521194231
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 4,
+        "prob": 0.022118467962336536
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.019079472499227482
+      }
+    ]
+  },
+  {
+    "i": 3,
+    "j": 9,
+    "p_attacker_win": 0.03276952353080938,
+    "num_chains": 86,
+    "num_absorbing_states": 12,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          9
+        ],
+        "num_chains": 1,
+        "prob": 0.218070678059747
+      },
+      {
+        "state": [
+          0,
+          8
+        ],
+        "num_chains": 2,
+        "prob": 0.2060568016296141
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 3,
+        "prob": 0.1762948671037401
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 5,
+        "prob": 0.13509921805014882
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 6,
+        "prob": 0.09015882835917176
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 9,
+        "prob": 0.06428328151889871
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 10,
+        "prob": 0.03930795630845396
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 14,
+        "prob": 0.027143410204476
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 15,
+        "prob": 0.010815435234940185
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 15,
+        "prob": 0.007725310882100132
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.012457060652691115
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.01258715199601813
+      }
+    ]
+  },
+  {
+    "i": 3,
+    "j": 10,
+    "p_attacker_win": 0.02075402649784373,
+    "num_chains": 111,
+    "num_absorbing_states": 13,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          10
+        ],
+        "num_chains": 1,
+        "prob": 0.218070678059747
+      },
+      {
+        "state": [
+          0,
+          9
+        ],
+        "num_chains": 2,
+        "prob": 0.2060568016296141
+      },
+      {
+        "state": [
+          0,
+          8
+        ],
+        "num_chains": 3,
+        "prob": 0.1762948671037401
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 5,
+        "prob": 0.13509921805014882
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 6,
+        "prob": 0.09015882835917176
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 9,
+        "prob": 0.06428328151889871
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 10,
+        "prob": 0.03930795630845396
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 14,
+        "prob": 0.027143410204476
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 15,
+        "prob": 0.015941666287715053
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 20,
+        "prob": 0.006889265980190781
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 20,
+        "prob": 0.004920904271564844
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.008742114571602006
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.00709100765467688
+      }
+    ]
+  },
+  {
+    "i": 4,
+    "j": 1,
+    "p_attacker_win": 0.9715441468466602,
+    "num_chains": 5,
+    "num_absorbing_states": 5,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 1,
+        "prob": 0.02845585315333981
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.020325609395242722
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.06700750350080019
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.22448881172839505
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.6597222222222222
+      }
+    ]
+  },
+  {
+    "i": 4,
+    "j": 2,
+    "p_attacker_win": 0.7854543150565146,
+    "num_chains": 9,
+    "num_absorbing_states": 6,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 1,
+        "prob": 0.13115845129680434
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 2,
+        "prob": 0.08338723364668096
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.059562309747629265
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.1327162437062334
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.221519383001829
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.37165637860082307
+      }
+    ]
+  },
+  {
+    "i": 4,
+    "j": 3,
+    "p_attacker_win": 0.6416228964559515,
+    "num_chains": 19,
+    "num_absorbing_states": 7,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 1,
+        "prob": 0.13115845129680434
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 2,
+        "prob": 0.1438941163997636
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 5,
+        "prob": 0.08332453584748055
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.05951752560534325
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.12868912951264105
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.20822626934436866
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.24518997199359854
+      }
+    ]
+  },
+  {
+    "i": 4,
+    "j": 4,
+    "p_attacker_win": 0.47653087576981756,
+    "num_chains": 30,
+    "num_absorbing_states": 8,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 1,
+        "prob": 0.13115845129680434
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 2,
+        "prob": 0.1438941163997636
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 5,
+        "prob": 0.16578464212787658
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 7,
+        "prob": 0.08263191440573789
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 7,
+        "prob": 0.059022796004098495
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.1147214326583438
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.16465818335269697
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.13812846375467833
+      }
+    ]
+  },
+  {
+    "i": 4,
+    "j": 5,
+    "p_attacker_win": 0.35860623320190177,
+    "num_chains": 51,
+    "num_absorbing_states": 9,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 1,
+        "prob": 0.13115845129680434
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 2,
+        "prob": 0.1438941163997636
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 5,
+        "prob": 0.16578464212787658
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 7,
+        "prob": 0.1333433188791656
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 13,
+        "prob": 0.06721323809448809
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 13,
+        "prob": 0.04800945578177721
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 6,
+        "prob": 0.09570141266572767
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.12376894769401885
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.09112641706037805
+      }
+    ]
+  },
+  {
+    "i": 4,
+    "j": 6,
+    "p_attacker_win": 0.25250266679567607,
+    "num_chains": 73,
+    "num_absorbing_states": 10,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 1,
+        "prob": 0.13115845129680434
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 2,
+        "prob": 0.1438941163997636
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 5,
+        "prob": 0.16578464212787658
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 7,
+        "prob": 0.1333433188791656
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 13,
+        "prob": 0.11903653111849812
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 16,
+        "prob": 0.054280273382215694
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 16,
+        "prob": 0.03877162384443978
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 9,
+        "prob": 0.07060032213269699
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.09179439619778051
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.05133632462075879
+      }
+    ]
+  },
+  {
+    "i": 4,
+    "j": 7,
+    "p_attacker_win": 0.18148555328012736,
+    "num_chains": 111,
+    "num_absorbing_states": 11,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 1,
+        "prob": 0.13115845129680434
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 2,
+        "prob": 0.1438941163997636
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 5,
+        "prob": 0.16578464212787658
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 7,
+        "prob": 0.1333433188791656
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 13,
+        "prob": 0.11903653111849812
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 16,
+        "prob": 0.08483283664966068
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 26,
+        "prob": 0.04046455024810373
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 26,
+        "prob": 0.028903250177216944
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 10,
+        "prob": 0.0554775258749001
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 4,
+        "prob": 0.06323706306848195
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.03386771415952837
+      }
+    ]
+  },
+  {
+    "i": 4,
+    "j": 8,
+    "p_attacker_win": 0.12339538610187009,
+    "num_chains": 149,
+    "num_absorbing_states": 12,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          8
+        ],
+        "num_chains": 1,
+        "prob": 0.13115845129680434
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 2,
+        "prob": 0.1438941163997636
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 5,
+        "prob": 0.16578464212787658
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 7,
+        "prob": 0.1333433188791656
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 13,
+        "prob": 0.11903653111849812
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 16,
+        "prob": 0.08483283664966068
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 26,
+        "prob": 0.06864594610553451
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 30,
+        "prob": 0.029908771320826484
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 30,
+        "prob": 0.02136340808630463
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 14,
+        "prob": 0.03746454169404961
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 4,
+        "prob": 0.045487963822288355
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.019079472499227482
+      }
+    ]
+  },
+  {
+    "i": 4,
+    "j": 9,
+    "p_attacker_win": 0.08617226928888658,
+    "num_chains": 211,
+    "num_absorbing_states": 13,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          9
+        ],
+        "num_chains": 1,
+        "prob": 0.13115845129680434
+      },
+      {
+        "state": [
+          0,
+          8
+        ],
+        "num_chains": 2,
+        "prob": 0.1438941163997636
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 5,
+        "prob": 0.16578464212787658
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 7,
+        "prob": 0.1333433188791656
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 13,
+        "prob": 0.11903653111849812
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 16,
+        "prob": 0.08483283664966068
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 26,
+        "prob": 0.06864594610553451
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 30,
+        "prob": 0.045885129369473525
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 45,
+        "prob": 0.021246758764336474
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 45,
+        "prob": 0.015176256260240337
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 15,
+        "prob": 0.02849995993136836
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.02990890110125975
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.01258715199601813
+      }
+    ]
+  },
+  {
+    "i": 4,
+    "j": 10,
+    "p_attacker_win": 0.05719071857168581,
+    "num_chains": 271,
+    "num_absorbing_states": 14,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          10
+        ],
+        "num_chains": 1,
+        "prob": 0.13115845129680434
+      },
+      {
+        "state": [
+          0,
+          9
+        ],
+        "num_chains": 2,
+        "prob": 0.1438941163997636
+      },
+      {
+        "state": [
+          0,
+          8
+        ],
+        "num_chains": 5,
+        "prob": 0.16578464212787658
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 7,
+        "prob": 0.1333433188791656
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 13,
+        "prob": 0.11903653111849812
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 16,
+        "prob": 0.08483283664966068
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 26,
+        "prob": 0.06864594610553451
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 30,
+        "prob": 0.045885129369473525
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 45,
+        "prob": 0.035273730116800926
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 50,
+        "prob": 0.014954579364736311
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 50,
+        "prob": 0.010681842403383079
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 20,
+        "prob": 0.01828550363347967
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.02113236488014618
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.00709100765467688
+      }
+    ]
+  },
+  {
+    "i": 5,
+    "j": 1,
+    "p_attacker_win": 0.9903171055242107,
+    "num_chains": 6,
+    "num_absorbing_states": 6,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 1,
+        "prob": 0.00968289447578924
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.006916353196992315
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.022801164385688952
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.07638855399091221
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.22448881172839505
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.6597222222222222
+      }
+    ]
+  },
+  {
+    "i": 5,
+    "j": 2,
+    "p_attacker_win": 0.8897887238900141,
+    "num_chains": 13,
+    "num_absorbing_states": 7,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 1,
+        "prob": 0.06380025624818987
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 3,
+        "prob": 0.046411019861796035
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.03315072847271146
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.07934976612693045
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.18411246768772016
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.221519383001829
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.37165637860082307
+      }
+    ]
+  },
+  {
+    "i": 5,
+    "j": 3,
+    "p_attacker_win": 0.7693748566489697,
+    "num_chains": 27,
+    "num_absorbing_states": 8,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 1,
+        "prob": 0.06380025624818987
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 3,
+        "prob": 0.10432535237182719
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 6,
+        "prob": 0.062499534731013336
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 6,
+        "prob": 0.044642524807866665
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.09681027564498908
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.17450581485814667
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.20822626934436866
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.24518997199359854
+      }
+    ]
+  },
+  {
+    "i": 5,
+    "j": 4,
+    "p_attacker_win": 0.6382946115802172,
+    "num_chains": 51,
+    "num_absorbing_states": 9,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 1,
+        "prob": 0.06380025624818987
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 3,
+        "prob": 0.10432535237182719
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 6,
+        "prob": 0.12360610868545012
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 13,
+        "prob": 0.06997367111431564
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 13,
+        "prob": 0.0499811936530826
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 7,
+        "prob": 0.10677084541883967
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.1787559254009196
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.16465818335269697
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.13812846375467833
+      }
+    ]
+  },
+  {
+    "i": 5,
+    "j": 5,
+    "p_attacker_win": 0.5062028289995559,
+    "num_chains": 84,
+    "num_absorbing_states": 10,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 1,
+        "prob": 0.06380025624818987
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 3,
+        "prob": 0.10432535237182719
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 6,
+        "prob": 0.12360610868545012
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 13,
+        "prob": 0.13396536651421745
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 19,
+        "prob": 0.06810008718075947
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 19,
+        "prob": 0.04864291941482819
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 13,
+        "prob": 0.0958593853027722
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 6,
+        "prob": 0.1468051595275586
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.12376894769401885
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.09112641706037805
+      }
+    ]
+  },
+  {
+    "i": 5,
+    "j": 6,
+    "p_attacker_win": 0.3967536406075503,
+    "num_chains": 141,
+    "num_absorbing_states": 11,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 1,
+        "prob": 0.06380025624818987
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 3,
+        "prob": 0.10432535237182719
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 6,
+        "prob": 0.12360610868545012
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 13,
+        "prob": 0.13396536651421745
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 19,
+        "prob": 0.11709007127206378
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 35,
+        "prob": 0.06045920430070127
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 35,
+        "prob": 0.04318514592907234
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 16,
+        "prob": 0.08742395115546758
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 9,
+        "prob": 0.12301382270447109
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.09179439619778051
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.05133632462075879
+      }
+    ]
+  },
+  {
+    "i": 5,
+    "j": 7,
+    "p_attacker_win": 0.29741811748057956,
+    "num_chains": 208,
+    "num_absorbing_states": 12,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 1,
+        "prob": 0.06380025624818987
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 3,
+        "prob": 0.10432535237182719
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 6,
+        "prob": 0.12360610868545012
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 13,
+        "prob": 0.13396536651421745
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 19,
+        "prob": 0.11709007127206378
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 35,
+        "prob": 0.1085659410277754
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 45,
+        "prob": 0.051228786399896586
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 45,
+        "prob": 0.03659199028564042
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 26,
+        "prob": 0.06842928087999774
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 10,
+        "prob": 0.09529206908693111
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 4,
+        "prob": 0.06323706306848195
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.03386771415952837
+      }
+    ]
+  },
+  {
+    "i": 5,
+    "j": 8,
+    "p_attacker_win": 0.22404764671778032,
+    "num_chains": 321,
+    "num_absorbing_states": 13,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          8
+        ],
+        "num_chains": 1,
+        "prob": 0.06380025624818987
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 3,
+        "prob": 0.10432535237182719
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 6,
+        "prob": 0.12360610868545012
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 13,
+        "prob": 0.13396536651421745
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 19,
+        "prob": 0.11709007127206378
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 35,
+        "prob": 0.1085659410277754
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 45,
+        "prob": 0.08350237179401505
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 75,
+        "prob": 0.04109688536868078
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 75,
+        "prob": 0.029354918120486274
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 30,
+        "prob": 0.05759086336329489
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 14,
+        "prob": 0.07253442891248332
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 4,
+        "prob": 0.045487963822288355
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.019079472499227482
+      }
+    ]
+  },
+  {
+    "i": 5,
+    "j": 9,
+    "p_attacker_win": 0.1615579190668016,
+    "num_chains": 443,
+    "num_absorbing_states": 14,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          9
+        ],
+        "num_chains": 1,
+        "prob": 0.06380025624818987
+      },
+      {
+        "state": [
+          0,
+          8
+        ],
+        "num_chains": 3,
+        "prob": 0.10432535237182719
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 6,
+        "prob": 0.12360610868545012
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 13,
+        "prob": 0.13396536651421745
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 19,
+        "prob": 0.11709007127206378
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 35,
+        "prob": 0.1085659410277754
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 45,
+        "prob": 0.08350237179401505
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 75,
+        "prob": 0.07134019972569501
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 90,
+        "prob": 0.03224641329396451
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 90,
+        "prob": 0.02303315235283179
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 45,
+        "prob": 0.04165642400864574
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 15,
+        "prob": 0.05437228960804617
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.02990890110125975
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.01258715199601813
+      }
+    ]
+  },
+  {
+    "i": 5,
+    "j": 10,
+    "p_attacker_win": 0.11827532206922099,
+    "num_chains": 643,
+    "num_absorbing_states": 15,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          10
+        ],
+        "num_chains": 1,
+        "prob": 0.06380025624818987
+      },
+      {
+        "state": [
+          0,
+          9
+        ],
+        "num_chains": 3,
+        "prob": 0.10432535237182719
+      },
+      {
+        "state": [
+          0,
+          8
+        ],
+        "num_chains": 6,
+        "prob": 0.12360610868545012
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 13,
+        "prob": 0.13396536651421745
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 19,
+        "prob": 0.11709007127206378
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 35,
+        "prob": 0.1085659410277754
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 45,
+        "prob": 0.08350237179401505
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 75,
+        "prob": 0.07134019972569501
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 90,
+        "prob": 0.05110535211843501
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 140,
+        "prob": 0.024423658173110086
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 140,
+        "prob": 0.01744547012365006
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 50,
+        "prob": 0.03353128872828184
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 20,
+        "prob": 0.03907519068246604
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.02113236488014618
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.00709100765467688
+      }
+    ]
+  },
+  {
+    "i": 6,
+    "j": 1,
+    "p_attacker_win": 0.9967051261853217,
+    "num_chains": 7,
+    "num_absorbing_states": 7,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 1,
+        "prob": 0.0032948738146782834
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.002353481296198774
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.007758729547908046
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.025993327399685403
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.07638855399091221
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.22448881172839505
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.6597222222222222
+      }
+    ]
+  },
+  {
+    "i": 6,
+    "j": 2,
+    "p_attacker_win": 0.9339797491354533,
+    "num_chains": 16,
+    "num_absorbing_states": 8,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 1,
+        "prob": 0.03837261788840405
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 3,
+        "prob": 0.027647632976142606
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.01974830926867329
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.046484477191707146
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.09045873338470072
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.18411246768772016
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.221519383001829
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.37165637860082307
+      }
+    ]
+  },
+  {
+    "i": 6,
+    "j": 3,
+    "p_attacker_win": 0.8569197868042305,
+    "num_chains": 39,
+    "num_absorbing_states": 9,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 1,
+        "prob": 0.03837261788840405
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 3,
+        "prob": 0.06352129422241332
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 9,
+        "prob": 0.04118630108495215
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 9,
+        "prob": 0.029418786489251537
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 6,
+        "prob": 0.06717756396503705
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.13240138015382805
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.17450581485814667
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.20822626934436866
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.24518997199359854
+      }
+    ]
+  },
+  {
+    "i": 6,
+    "j": 4,
+    "p_attacker_win": 0.7448748672953003,
+    "num_chains": 73,
+    "num_absorbing_states": 10,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 1,
+        "prob": 0.03837261788840405
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 3,
+        "prob": 0.06352129422241332
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 9,
+        "prob": 0.0977945501004691
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 16,
+        "prob": 0.055436670493413276
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 16,
+        "prob": 0.039597621781009486
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 13,
+        "prob": 0.08334658283061115
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 7,
+        "prob": 0.14038809017538473
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.1787559254009196
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.16465818335269697
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.13812846375467833
+      }
+    ]
+  },
+  {
+    "i": 6,
+    "j": 5,
+    "p_attacker_win": 0.6377204983583461,
+    "num_chains": 141,
+    "num_absorbing_states": 11,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 1,
+        "prob": 0.03837261788840405
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 3,
+        "prob": 0.06352129422241332
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 9,
+        "prob": 0.0977945501004691
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 16,
+        "prob": 0.10412398926576472
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 35,
+        "prob": 0.05846705016460266
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 35,
+        "prob": 0.0417621786890019
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 19,
+        "prob": 0.08881720049666639
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 13,
+        "prob": 0.14544059489072236
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 6,
+        "prob": 0.1468051595275586
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.12376894769401885
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.09112641706037805
+      }
+    ]
+  },
+  {
+    "i": 6,
+    "j": 6,
+    "p_attacker_win": 0.5206825514353679,
+    "num_chains": 230,
+    "num_absorbing_states": 12,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 1,
+        "prob": 0.03837261788840405
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 3,
+        "prob": 0.06352129422241332
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 9,
+        "prob": 0.0977945501004691
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 16,
+        "prob": 0.10412398926576472
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 35,
+        "prob": 0.11615456919413075
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 51,
+        "prob": 0.05935042789345011
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 51,
+        "prob": 0.04239316278103579
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 35,
+        "prob": 0.08381895733769162
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 16,
+        "prob": 0.12832588779363016
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 9,
+        "prob": 0.12301382270447109
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.09179439619778051
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.05133632462075879
+      }
+    ]
+  },
+  {
+    "i": 6,
+    "j": 7,
+    "p_attacker_win": 0.4233301992790926,
+    "num_chains": 393,
+    "num_absorbing_states": 13,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 1,
+        "prob": 0.03837261788840405
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 3,
+        "prob": 0.06352129422241332
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 9,
+        "prob": 0.0977945501004691
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 16,
+        "prob": 0.10412398926576472
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 35,
+        "prob": 0.11615456919413075
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 51,
+        "prob": 0.10283374594230923
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 96,
+        "prob": 0.05386903410741624
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 96,
+        "prob": 0.038477881505297316
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 45,
+        "prob": 0.07859529543051562
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 26,
+        "prob": 0.11386017602833823
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 10,
+        "prob": 0.09529206908693111
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 4,
+        "prob": 0.06323706306848195
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.03386771415952837
+      }
+    ]
+  },
+  {
+    "i": 6,
+    "j": 8,
+    "p_attacker_win": 0.3294824822237347,
+    "num_chains": 587,
+    "num_absorbing_states": 14,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          8
+        ],
+        "num_chains": 1,
+        "prob": 0.03837261788840405
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 3,
+        "prob": 0.06352129422241332
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 9,
+        "prob": 0.0977945501004691
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 16,
+        "prob": 0.10412398926576472
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 35,
+        "prob": 0.11615456919413075
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 51,
+        "prob": 0.10283374594230923
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 96,
+        "prob": 0.09970703502889024
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 126,
+        "prob": 0.04800971613388388
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 126,
+        "prob": 0.03429265438134563
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 75,
+        "prob": 0.06508969540092152
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 30,
+        "prob": 0.0929982672074684
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 14,
+        "prob": 0.07253442891248332
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 4,
+        "prob": 0.045487963822288355
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.019079472499227482
+      }
+    ]
+  },
+  {
+    "i": 6,
+    "j": 9,
+    "p_attacker_win": 0.2577745105618466,
+    "num_chains": 925,
+    "num_absorbing_states": 15,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          9
+        ],
+        "num_chains": 1,
+        "prob": 0.03837261788840405
+      },
+      {
+        "state": [
+          0,
+          8
+        ],
+        "num_chains": 3,
+        "prob": 0.06352129422241332
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 9,
+        "prob": 0.0977945501004691
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 16,
+        "prob": 0.10412398926576472
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 35,
+        "prob": 0.11615456919413075
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 51,
+        "prob": 0.10283374594230923
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 96,
+        "prob": 0.09970703502889024
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 126,
+        "prob": 0.07968144133783427
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 216,
+        "prob": 0.04003624645793775
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 216,
+        "prob": 0.028597318898526965
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 90,
+        "prob": 0.056886259886781906
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 45,
+        "prob": 0.07542258907121366
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 15,
+        "prob": 0.05437228960804617
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.02990890110125975
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.01258715199601813
+      }
+    ]
+  },
+  {
+    "i": 6,
+    "j": 10,
+    "p_attacker_win": 0.19343376865491224,
+    "num_chains": 1301,
+    "num_absorbing_states": 16,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          10
+        ],
+        "num_chains": 1,
+        "prob": 0.03837261788840405
+      },
+      {
+        "state": [
+          0,
+          9
+        ],
+        "num_chains": 3,
+        "prob": 0.06352129422241332
+      },
+      {
+        "state": [
+          0,
+          8
+        ],
+        "num_chains": 9,
+        "prob": 0.0977945501004691
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 16,
+        "prob": 0.10412398926576472
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 35,
+        "prob": 0.11615456919413075
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 51,
+        "prob": 0.10283374594230923
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 96,
+        "prob": 0.09970703502889024
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 126,
+        "prob": 0.07968144133783427
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 216,
+        "prob": 0.07133106079385347
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 266,
+        "prob": 0.033045927571018624
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 266,
+        "prob": 0.02360423397929902
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 140,
+        "prob": 0.04352799171314345
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 50,
+        "prob": 0.05900297974518066
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 20,
+        "prob": 0.03907519068246604
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.02113236488014618
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.00709100765467688
+      }
+    ]
+  },
+  {
+    "i": 7,
+    "j": 1,
+    "p_attacker_win": 0.9988788276602831,
+    "num_chains": 8,
+    "num_absorbing_states": 8,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 1,
+        "prob": 0.001121172339716916
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.0008008373855120828
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.0026401232489409324
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.008844951684615172
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.025993327399685403
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.07638855399091221
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.22448881172839505
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.6597222222222222
+      }
+    ]
+  },
+  {
+    "i": 7,
+    "j": 2,
+    "p_attacker_win": 0.9666494896244415,
+    "num_chains": 21,
+    "num_absorbing_states": 9,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 1,
+        "prob": 0.018665841430636824
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 4,
+        "prob": 0.01468466894492168
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 4,
+        "prob": 0.01048904924637263
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.02582031388739129
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.06259316381560467
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.09045873338470072
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.18411246768772016
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.221519383001829
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.37165637860082307
+      }
+    ]
+  },
+  {
+    "i": 7,
+    "j": 3,
+    "p_attacker_win": 0.909941967053407,
+    "num_chains": 51,
+    "num_absorbing_states": 10,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 1,
+        "prob": 0.018665841430636824
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 4,
+        "prob": 0.04340677494245497
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 10,
+        "prob": 0.02798541657350123
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 10,
+        "prob": 0.019989583266786595
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 9,
+        "prob": 0.044913104839163685
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 6,
+        "prob": 0.0847158425975148
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.13240138015382805
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.17450581485814667
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.20822626934436866
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.24518997199359854
+      }
+    ]
+  },
+  {
+    "i": 7,
+    "j": 4,
+    "p_attacker_win": 0.8337390470300252,
+    "num_chains": 111,
+    "num_absorbing_states": 11,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 1,
+        "prob": 0.018665841430636824
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 4,
+        "prob": 0.04340677494245497
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 10,
+        "prob": 0.06442930532518784
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 26,
+        "prob": 0.039759031271695194
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 26,
+        "prob": 0.02839930805121085
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 16,
+        "prob": 0.06339056069639054
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 13,
+        "prob": 0.12001851559874417
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 7,
+        "prob": 0.14038809017538473
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.1787559254009196
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.16465818335269697
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.13812846375467833
+      }
+    ]
+  },
+  {
+    "i": 7,
+    "j": 5,
+    "p_attacker_win": 0.7363955760373412,
+    "num_chains": 208,
+    "num_absorbing_states": 12,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 1,
+        "prob": 0.018665841430636824
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 4,
+        "prob": 0.04340677494245497
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 10,
+        "prob": 0.06442930532518784
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 26,
+        "prob": 0.0881633691764229
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 45,
+        "prob": 0.048939133087956325
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 45,
+        "prob": 0.03495652363425452
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 35,
+        "prob": 0.07272336706786466
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 19,
+        "prob": 0.12157456616254413
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 13,
+        "prob": 0.14544059489072236
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 6,
+        "prob": 0.1468051595275586
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.12376894769401885
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.09112641706037805
+      }
+    ]
+  },
+  {
+    "i": 7,
+    "j": 6,
+    "p_attacker_win": 0.6400731223653024,
+    "num_chains": 393,
+    "num_absorbing_states": 13,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 1,
+        "prob": 0.018665841430636824
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 4,
+        "prob": 0.04340677494245497
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 10,
+        "prob": 0.06442930532518784
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 26,
+        "prob": 0.0881633691764229
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 45,
+        "prob": 0.09316465284293333
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 96,
+        "prob": 0.05209693391706174
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 96,
+        "prob": 0.037212095655044096
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 51,
+        "prob": 0.07895960902624143
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 35,
+        "prob": 0.12943098636737635
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 16,
+        "prob": 0.12832588779363016
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 9,
+        "prob": 0.12301382270447109
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.09179439619778051
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.05133632462075879
+      }
+    ]
+  },
+  {
+    "i": 7,
+    "j": 7,
+    "p_attacker_win": 0.535533895809411,
+    "num_chains": 646,
+    "num_absorbing_states": 14,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 1,
+        "prob": 0.018665841430636824
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 4,
+        "prob": 0.04340677494245497
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 10,
+        "prob": 0.06442930532518784
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 26,
+        "prob": 0.0881633691764229
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 45,
+        "prob": 0.09316465284293333
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 96,
+        "prob": 0.10353127995420867
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 141,
+        "prob": 0.053104880518744436
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 141,
+        "prob": 0.037932057513388885
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 96,
+        "prob": 0.07519270093066313
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 45,
+        "prob": 0.11615211502207937
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 26,
+        "prob": 0.11386017602833823
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 10,
+        "prob": 0.09529206908693111
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 4,
+        "prob": 0.06323706306848195
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.03386771415952837
+      }
+    ]
+  },
+  {
+    "i": 7,
+    "j": 8,
+    "p_attacker_win": 0.4455806160283417,
+    "num_chains": 1107,
+    "num_absorbing_states": 15,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          8
+        ],
+        "num_chains": 1,
+        "prob": 0.018665841430636824
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 4,
+        "prob": 0.04340677494245497
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 10,
+        "prob": 0.06442930532518784
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 26,
+        "prob": 0.0881633691764229
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 45,
+        "prob": 0.09316465284293333
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 96,
+        "prob": 0.10353127995420867
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 141,
+        "prob": 0.09358444614233938
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 267,
+        "prob": 0.04947371415747441
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 267,
+        "prob": 0.035338367255338864
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 126,
+        "prob": 0.0725854939051453
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 75,
+        "prob": 0.10755662242638996
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 30,
+        "prob": 0.0929982672074684
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 14,
+        "prob": 0.07253442891248332
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 4,
+        "prob": 0.045487963822288355
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.019079472499227482
+      }
+    ]
+  },
+  {
+    "i": 7,
+    "j": 9,
+    "p_attacker_win": 0.3569336401559083,
+    "num_chains": 1676,
+    "num_absorbing_states": 16,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          9
+        ],
+        "num_chains": 1,
+        "prob": 0.018665841430636824
+      },
+      {
+        "state": [
+          0,
+          8
+        ],
+        "num_chains": 4,
+        "prob": 0.04340677494245497
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 10,
+        "prob": 0.06442930532518784
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 26,
+        "prob": 0.0881633691764229
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 45,
+        "prob": 0.09316465284293333
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 96,
+        "prob": 0.10353127995420867
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 141,
+        "prob": 0.09358444614233938
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 267,
+        "prob": 0.09282914376338113
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 357,
+        "prob": 0.045291546266526685
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 357,
+        "prob": 0.032351104476090485
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 216,
+        "prob": 0.061988742927095115
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 90,
+        "prob": 0.09030286097618498
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 45,
+        "prob": 0.07542258907121366
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 15,
+        "prob": 0.05437228960804617
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.02990890110125975
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.01258715199601813
+      }
+    ]
+  },
+  {
+    "i": 7,
+    "j": 10,
+    "p_attacker_win": 0.2867610063151192,
+    "num_chains": 2675,
+    "num_absorbing_states": 17,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          10
+        ],
+        "num_chains": 1,
+        "prob": 0.018665841430636824
+      },
+      {
+        "state": [
+          0,
+          9
+        ],
+        "num_chains": 4,
+        "prob": 0.04340677494245497
+      },
+      {
+        "state": [
+          0,
+          8
+        ],
+        "num_chains": 10,
+        "prob": 0.06442930532518784
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 26,
+        "prob": 0.0881633691764229
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 45,
+        "prob": 0.09316465284293333
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 96,
+        "prob": 0.10353127995420867
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 141,
+        "prob": 0.09358444614233938
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 267,
+        "prob": 0.09282914376338113
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 357,
+        "prob": 0.07648816470600382
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 623,
+        "prob": 0.03897601540131198
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 623,
+        "prob": 0.027840011000937127
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 266,
+        "prob": 0.05588808948136557
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 140,
+        "prob": 0.07673136287034671
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 50,
+        "prob": 0.05900297974518066
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 20,
+        "prob": 0.03907519068246604
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.02113236488014618
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.00709100765467688
+      }
+    ]
+  },
+  {
+    "i": 8,
+    "j": 1,
+    "p_attacker_win": 0.9996184899677352,
+    "num_chains": 9,
+    "num_absorbing_states": 9,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 1,
+        "prob": 0.0003815100322647839
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.00027250716590341705
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.0008983752722090672
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.003009740503792663
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.008844951684615172
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.025993327399685403
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.07638855399091221
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.22448881172839505
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.6597222222222222
+      }
+    ]
+  },
+  {
+    "i": 8,
+    "j": 2,
+    "p_attacker_win": 0.9803081980843822,
+    "num_chains": 25,
+    "num_absorbing_states": 10,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 1,
+        "prob": 0.011226556802484466
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 4,
+        "prob": 0.008465245113133398
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 4,
+        "prob": 0.006046603652238141
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 4,
+        "prob": 0.014486310109840347
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.02943515783162607
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.06259316381560467
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.09045873338470072
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.18411246768772016
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.221519383001829
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.37165637860082307
+      }
+    ]
+  },
+  {
+    "i": 8,
+    "j": 3,
+    "p_attacker_win": 0.9467993529315581,
+    "num_chains": 69,
+    "num_absorbing_states": 11,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 1,
+        "prob": 0.011226556802484466
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 4,
+        "prob": 0.024851781935620248
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 14,
+        "prob": 0.017122308330337177
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 14,
+        "prob": 0.012230220235955125
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 10,
+        "prob": 0.02865767774139945
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 9,
+        "prob": 0.06087217600674683
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 6,
+        "prob": 0.0847158425975148
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.13240138015382805
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.17450581485814667
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.20822626934436866
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.24518997199359854
+      }
+    ]
+  },
+  {
+    "i": 8,
+    "j": 4,
+    "p_attacker_win": 0.8878008605371808,
+    "num_chains": 149,
+    "num_absorbing_states": 12,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 1,
+        "prob": 0.011226556802484466
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 4,
+        "prob": 0.024851781935620248
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 14,
+        "prob": 0.047358852882265594
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 30,
+        "prob": 0.028761947842448874
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 30,
+        "prob": 0.020544248458892054
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 26,
+        "prob": 0.04484915495012029
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 16,
+        "prob": 0.08045827884574469
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 13,
+        "prob": 0.12001851559874417
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 7,
+        "prob": 0.14038809017538473
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.1787559254009196
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.16465818335269697
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.13812846375467833
+      }
+    ]
+  },
+  {
+    "i": 8,
+    "j": 5,
+    "p_attacker_win": 0.8184100971621445,
+    "num_chains": 321,
+    "num_absorbing_states": 13,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 1,
+        "prob": 0.011226556802484466
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 4,
+        "prob": 0.024851781935620248
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 14,
+        "prob": 0.047358852882265594
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 30,
+        "prob": 0.06133341584074366
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 75,
+        "prob": 0.036819295376741466
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 75,
+        "prob": 0.026299496697672474
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 45,
+        "prob": 0.05792085568169189
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 35,
+        "prob": 0.10547405944755822
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 19,
+        "prob": 0.12157456616254413
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 13,
+        "prob": 0.14544059489072236
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 6,
+        "prob": 0.1468051595275586
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.12376894769401885
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.09112641706037805
+      }
+    ]
+  },
+  {
+    "i": 8,
+    "j": 6,
+    "p_attacker_win": 0.7295558308257989,
+    "num_chains": 587,
+    "num_absorbing_states": 14,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 1,
+        "prob": 0.011226556802484466
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 4,
+        "prob": 0.024851781935620248
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 14,
+        "prob": 0.047358852882265594
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 30,
+        "prob": 0.06133341584074366
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 75,
+        "prob": 0.08118740826466501
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 126,
+        "prob": 0.0444861534484221
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 126,
+        "prob": 0.031775823891730066
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 96,
+        "prob": 0.06560994047881824
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 51,
+        "prob": 0.10826864877123372
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 35,
+        "prob": 0.12943098636737635
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 16,
+        "prob": 0.12832588779363016
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 9,
+        "prob": 0.12301382270447109
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.09179439619778051
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.05133632462075879
+      }
+    ]
+  },
+  {
+    "i": 8,
+    "j": 7,
+    "p_attacker_win": 0.6429413974606916,
+    "num_chains": 1107,
+    "num_absorbing_states": 15,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 1,
+        "prob": 0.011226556802484466
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 4,
+        "prob": 0.024851781935620248
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 14,
+        "prob": 0.047358852882265594
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 30,
+        "prob": 0.06133341584074366
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 75,
+        "prob": 0.08118740826466501
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 126,
+        "prob": 0.0841632268996144
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 267,
+        "prob": 0.04693735991391499
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 267,
+        "prob": 0.03352668565279642
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 141,
+        "prob": 0.0710338360586457
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 96,
+        "prob": 0.11597173838389048
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 45,
+        "prob": 0.11615211502207937
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 26,
+        "prob": 0.11386017602833823
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 10,
+        "prob": 0.09529206908693111
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 4,
+        "prob": 0.06323706306848195
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.03386771415952837
+      }
+    ]
+  },
+  {
+    "i": 8,
+    "j": 8,
+    "p_attacker_win": 0.5473595679145997,
+    "num_chains": 1820,
+    "num_absorbing_states": 16,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          8
+        ],
+        "num_chains": 1,
+        "prob": 0.011226556802484466
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 4,
+        "prob": 0.024851781935620248
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 14,
+        "prob": 0.047358852882265594
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 30,
+        "prob": 0.06133341584074366
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 75,
+        "prob": 0.08118740826466501
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 126,
+        "prob": 0.0841632268996144
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 267,
+        "prob": 0.09410819014095242
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 393,
+        "prob": 0.04841099931905445
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 393,
+        "prob": 0.03457928522789604
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 267,
+        "prob": 0.06867540215417214
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 126,
+        "prob": 0.10644812566467403
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 75,
+        "prob": 0.10755662242638996
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 30,
+        "prob": 0.0929982672074684
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 14,
+        "prob": 0.07253442891248332
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 4,
+        "prob": 0.045487963822288355
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.019079472499227482
+      }
+    ]
+  },
+  {
+    "i": 8,
+    "j": 9,
+    "p_attacker_win": 0.4639851644341049,
+    "num_chains": 3139,
+    "num_absorbing_states": 17,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          9
+        ],
+        "num_chains": 1,
+        "prob": 0.011226556802484466
+      },
+      {
+        "state": [
+          0,
+          8
+        ],
+        "num_chains": 4,
+        "prob": 0.024851781935620248
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 14,
+        "prob": 0.047358852882265594
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 30,
+        "prob": 0.06133341584074366
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 75,
+        "prob": 0.08118740826466501
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 126,
+        "prob": 0.0841632268996144
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 267,
+        "prob": 0.09410819014095242
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 393,
+        "prob": 0.08601543128357854
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 750,
+        "prob": 0.04576997151597073
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 750,
+        "prob": 0.03269283679712195
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 357,
+        "prob": 0.06741573457282013
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 216,
+        "prob": 0.10128280031144016
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 90,
+        "prob": 0.09030286097618498
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 45,
+        "prob": 0.07542258907121366
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 15,
+        "prob": 0.05437228960804617
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.02990890110125975
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.01258715199601813
+      }
+    ]
+  },
+  {
+    "i": 8,
+    "j": 10,
+    "p_attacker_win": 0.3798720048109819,
+    "num_chains": 4797,
+    "num_absorbing_states": 18,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          10
+        ],
+        "num_chains": 1,
+        "prob": 0.011226556802484466
+      },
+      {
+        "state": [
+          0,
+          9
+        ],
+        "num_chains": 4,
+        "prob": 0.024851781935620248
+      },
+      {
+        "state": [
+          0,
+          8
+        ],
+        "num_chains": 14,
+        "prob": 0.047358852882265594
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 30,
+        "prob": 0.06133341584074366
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 75,
+        "prob": 0.08118740826466501
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 126,
+        "prob": 0.0841632268996144
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 267,
+        "prob": 0.09410819014095242
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 393,
+        "prob": 0.08601543128357854
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 750,
+        "prob": 0.08701488261053977
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 1016,
+        "prob": 0.042868248528554004
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 1016,
+        "prob": 0.030620177520395715
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 623,
+        "prob": 0.059072878235031406
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 266,
+        "prob": 0.08714604322273829
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 140,
+        "prob": 0.07673136287034671
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 50,
+        "prob": 0.05900297974518066
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 20,
+        "prob": 0.03907519068246604
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.02113236488014618
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.00709100765467688
+      }
+    ]
+  },
+  {
+    "i": 9,
+    "j": 1,
+    "p_attacker_win": 0.999870180614021,
+    "num_chains": 10,
+    "num_absorbing_states": 10,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 1,
+        "prob": 0.00012981938597898896
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 9.272813284213497e-05
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.0003056971412378076
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.0010241478103183367
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.003009740503792663
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.008844951684615172
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.025993327399685403
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.07638855399091221
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.22448881172839505
+      },
+      {
+        "state": [
+          9,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.6597222222222222
+      }
+    ]
+  },
+  {
+    "i": 9,
+    "j": 2,
+    "p_attacker_win": 0.9901146432872121,
+    "num_chains": 31,
+    "num_absorbing_states": 11,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 1,
+        "prob": 0.005461006848598094
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 5,
+        "prob": 0.004424349864189837
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.003160249902992741
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 4,
+        "prob": 0.007855822007401371
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 4,
+        "prob": 0.01932328705451431
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.02943515783162607
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.06259316381560467
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.09045873338470072
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.18411246768772016
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.221519383001829
+      },
+      {
+        "state": [
+          9,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.37165637860082307
+      }
+    ]
+  },
+  {
+    "i": 9,
+    "j": 3,
+    "p_attacker_win": 0.9669917055323229,
+    "num_chains": 86,
+    "num_absorbing_states": 12,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 1,
+        "prob": 0.005461006848598094
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 5,
+        "prob": 0.016469001132378085
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 15,
+        "prob": 0.011078286486700858
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 15,
+        "prob": 0.007913061776214899
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 14,
+        "prob": 0.018117867019556044
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 10,
+        "prob": 0.035049321782348486
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 9,
+        "prob": 0.06087217600674683
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 6,
+        "prob": 0.0847158425975148
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.13240138015382805
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.17450581485814667
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.20822626934436866
+      },
+      {
+        "state": [
+          9,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.24518997199359854
+      }
+    ]
+  },
+  {
+    "i": 9,
+    "j": 4,
+    "p_attacker_win": 0.929820056789821,
+    "num_chains": 211,
+    "num_absorbing_states": 13,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 1,
+        "prob": 0.005461006848598094
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 5,
+        "prob": 0.016469001132378085
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 15,
+        "prob": 0.02922414892504569
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 45,
+        "prob": 0.019025786304157095
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 45,
+        "prob": 0.01358984736011221
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 30,
+        "prob": 0.03108822630767392
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 26,
+        "prob": 0.06273452599386643
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 16,
+        "prob": 0.08045827884574469
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 13,
+        "prob": 0.12001851559874417
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 7,
+        "prob": 0.14038809017538473
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.1787559254009196
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.16465818335269697
+      },
+      {
+        "state": [
+          9,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.13812846375467833
+      }
+    ]
+  },
+  {
+    "i": 9,
+    "j": 5,
+    "p_attacker_win": 0.8729364726512273,
+    "num_chains": 443,
+    "num_absorbing_states": 14,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 1,
+        "prob": 0.005461006848598094
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 5,
+        "prob": 0.016469001132378085
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 15,
+        "prob": 0.02922414892504569
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 45,
+        "prob": 0.0478164921585044
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 90,
+        "prob": 0.028092878284246416
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 90,
+        "prob": 0.020066341631604583
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 75,
+        "prob": 0.04306937234319356
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 45,
+        "prob": 0.07561101389364897
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 35,
+        "prob": 0.10547405944755822
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 19,
+        "prob": 0.12157456616254413
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 13,
+        "prob": 0.14544059489072236
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 6,
+        "prob": 0.1468051595275586
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.12376894769401885
+      },
+      {
+        "state": [
+          9,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.09112641706037805
+      }
+    ]
+  },
+  {
+    "i": 9,
+    "j": 6,
+    "p_attacker_win": 0.8076408283428504,
+    "num_chains": 925,
+    "num_absorbing_states": 15,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 1,
+        "prob": 0.005461006848598094
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 5,
+        "prob": 0.016469001132378085
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 15,
+        "prob": 0.02922414892504569
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 45,
+        "prob": 0.0478164921585044
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 90,
+        "prob": 0.05871256743457267
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 216,
+        "prob": 0.034675955158050595
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 216,
+        "prob": 0.024768539398607566
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 126,
+        "prob": 0.05410358008600494
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 96,
+        "prob": 0.09659864240298735
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 51,
+        "prob": 0.10826864877123372
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 35,
+        "prob": 0.12943098636737635
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 16,
+        "prob": 0.12832588779363016
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 9,
+        "prob": 0.12301382270447109
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.09179439619778051
+      },
+      {
+        "state": [
+          9,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.05133632462075879
+      }
+    ]
+  },
+  {
+    "i": 9,
+    "j": 7,
+    "p_attacker_win": 0.7260797702179292,
+    "num_chains": 1676,
+    "num_absorbing_states": 16,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 1,
+        "prob": 0.005461006848598094
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 5,
+        "prob": 0.016469001132378085
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 15,
+        "prob": 0.02922414892504569
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 45,
+        "prob": 0.0478164921585044
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 90,
+        "prob": 0.05871256743457267
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 216,
+        "prob": 0.07532197109219943
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 357,
+        "prob": 0.040915042190772355
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 357,
+        "prob": 0.029225030136265966
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 267,
+        "prob": 0.060036192808549695
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 141,
+        "prob": 0.09843767152386411
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 96,
+        "prob": 0.11597173838389048
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 45,
+        "prob": 0.11615211502207937
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 26,
+        "prob": 0.11386017602833823
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 10,
+        "prob": 0.09529206908693111
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "num_chains": 4,
+        "prob": 0.06323706306848195
+      },
+      {
+        "state": [
+          9,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.03386771415952837
+      }
+    ]
+  },
+  {
+    "i": 9,
+    "j": 8,
+    "p_attacker_win": 0.6464117649363659,
+    "num_chains": 3139,
+    "num_absorbing_states": 17,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          8
+        ],
+        "num_chains": 1,
+        "prob": 0.005461006848598094
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 5,
+        "prob": 0.016469001132378085
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 15,
+        "prob": 0.02922414892504569
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 45,
+        "prob": 0.0478164921585044
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 90,
+        "prob": 0.05871256743457267
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 216,
+        "prob": 0.07532197109219943
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 357,
+        "prob": 0.07746066361813661
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 750,
+        "prob": 0.04312238385419914
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 750,
+        "prob": 0.03080170275299939
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 393,
+        "prob": 0.06519556211829781
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 267,
+        "prob": 0.10630961953253712
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 126,
+        "prob": 0.10644812566467403
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 75,
+        "prob": 0.10755662242638996
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 30,
+        "prob": 0.0929982672074684
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 14,
+        "prob": 0.07253442891248332
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "num_chains": 4,
+        "prob": 0.045487963822288355
+      },
+      {
+        "state": [
+          9,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.019079472499227482
+      }
+    ]
+  },
+  {
+    "i": 9,
+    "j": 9,
+    "p_attacker_win": 0.5580697529719042,
+    "num_chains": 5172,
+    "num_absorbing_states": 18,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          9
+        ],
+        "num_chains": 1,
+        "prob": 0.005461006848598094
+      },
+      {
+        "state": [
+          0,
+          8
+        ],
+        "num_chains": 5,
+        "prob": 0.016469001132378085
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 15,
+        "prob": 0.02922414892504569
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 45,
+        "prob": 0.0478164921585044
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 90,
+        "prob": 0.05871256743457267
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 216,
+        "prob": 0.07532197109219943
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 357,
+        "prob": 0.07746066361813661
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 750,
+        "prob": 0.08675196540331472
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 1107,
+        "prob": 0.04471243041534613
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 1107,
+        "prob": 0.03193745029667581
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 750,
+        "prob": 0.06350828991774608
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 357,
+        "prob": 0.09874741969331945
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 216,
+        "prob": 0.10128280031144016
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 90,
+        "prob": 0.09030286097618498
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 45,
+        "prob": 0.07542258907121366
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 15,
+        "prob": 0.05437228960804617
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.02990890110125975
+      },
+      {
+        "state": [
+          9,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.01258715199601813
+      }
+    ]
+  },
+  {
+    "i": 9,
+    "j": 10,
+    "p_attacker_win": 0.4799352564776802,
+    "num_chains": 8953,
+    "num_absorbing_states": 19,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          10
+        ],
+        "num_chains": 1,
+        "prob": 0.005461006848598094
+      },
+      {
+        "state": [
+          0,
+          9
+        ],
+        "num_chains": 5,
+        "prob": 0.016469001132378085
+      },
+      {
+        "state": [
+          0,
+          8
+        ],
+        "num_chains": 15,
+        "prob": 0.02922414892504569
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 45,
+        "prob": 0.0478164921585044
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 90,
+        "prob": 0.05871256743457267
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 216,
+        "prob": 0.07532197109219943
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 357,
+        "prob": 0.07746066361813661
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 750,
+        "prob": 0.08675196540331472
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 1107,
+        "prob": 0.08004863472788028
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 2123,
+        "prob": 0.0427982921816898
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 2123,
+        "prob": 0.030570208701206997
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 1016,
+        "prob": 0.0632179862476364
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 623,
+        "prob": 0.09596811247328206
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 266,
+        "prob": 0.08714604322273829
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 140,
+        "prob": 0.07673136287034671
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 50,
+        "prob": 0.05900297974518066
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 20,
+        "prob": 0.03907519068246604
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.02113236488014618
+      },
+      {
+        "state": [
+          9,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.00709100765467688
+      }
+    ]
+  },
+  {
+    "i": 10,
+    "j": 1,
+    "p_attacker_win": 0.9999558253478266,
+    "num_chains": 11,
+    "num_absorbing_states": 11,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 1,
+        "prob": 4.4174652173405965e-05
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 3.155332298100426e-05
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.00010402194389342064
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.00034849474101110065
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.0010241478103183367
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.003009740503792663
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.008844951684615172
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.025993327399685403
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.07638855399091221
+      },
+      {
+        "state": [
+          9,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.22448881172839505
+      },
+      {
+        "state": [
+          10,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.6597222222222222
+      }
+    ]
+  },
+  {
+    "i": 10,
+    "j": 2,
+    "p_attacker_win": 0.9941952407696989,
+    "num_chains": 36,
+    "num_absorbing_states": 12,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 1,
+        "prob": 0.0032845186118379836
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 5,
+        "prob": 0.0025202406184631713
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.0018001718703308366
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.0043408604341124875
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 4,
+        "prob": 0.008955637088437563
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 4,
+        "prob": 0.01932328705451431
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.02943515783162607
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.06259316381560467
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.09045873338470072
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.18411246768772016
+      },
+      {
+        "state": [
+          9,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.221519383001829
+      },
+      {
+        "state": [
+          10,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.37165637860082307
+      }
+    ]
+  },
+  {
+    "i": 10,
+    "j": 3,
+    "p_attacker_win": 0.9810995623453478,
+    "num_chains": 111,
+    "num_absorbing_states": 13,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 1,
+        "prob": 0.0032845186118379836
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 5,
+        "prob": 0.009104487240898365
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 20,
+        "prob": 0.00651143180191588
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 20,
+        "prob": 0.0046510227156542
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 15,
+        "prob": 0.011060749940954311
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 14,
+        "prob": 0.024427012952187244
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 10,
+        "prob": 0.035049321782348486
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 9,
+        "prob": 0.06087217600674683
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 6,
+        "prob": 0.0847158425975148
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.13240138015382805
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.17450581485814667
+      },
+      {
+        "state": [
+          9,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.20822626934436866
+      },
+      {
+        "state": [
+          10,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.24518997199359854
+      }
+    ]
+  },
+  {
+    "i": 10,
+    "j": 4,
+    "p_attacker_win": 0.953933455078628,
+    "num_chains": 271,
+    "num_absorbing_states": 14,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 1,
+        "prob": 0.0032845186118379836
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 5,
+        "prob": 0.009104487240898365
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 20,
+        "prob": 0.02060625142129696
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 50,
+        "prob": 0.013071287647338696
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 50,
+        "prob": 0.009336634033813353
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 45,
+        "prob": 0.020818243949867487
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 30,
+        "prob": 0.03863659397291225
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 26,
+        "prob": 0.06273452599386643
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 16,
+        "prob": 0.08045827884574469
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 13,
+        "prob": 0.12001851559874417
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 7,
+        "prob": 0.14038809017538473
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.1787559254009196
+      },
+      {
+        "state": [
+          9,
+          0
+        ],
+        "num_chains": 2,
+        "prob": 0.16465818335269697
+      },
+      {
+        "state": [
+          10,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.13812846375467833
+      }
+    ]
+  },
+  {
+    "i": 10,
+    "j": 5,
+    "p_attacker_win": 0.9162835486754317,
+    "num_chains": 643,
+    "num_absorbing_states": 15,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 1,
+        "prob": 0.0032845186118379836
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 5,
+        "prob": 0.009104487240898365
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 20,
+        "prob": 0.02060625142129696
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 50,
+        "prob": 0.03114065612232284
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 140,
+        "prob": 0.01958053792821218
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 140,
+        "prob": 0.013986098520151556
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 90,
+        "prob": 0.03149522542368102
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 75,
+        "prob": 0.06100146605516992
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 45,
+        "prob": 0.07561101389364897
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 35,
+        "prob": 0.10547405944755822
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 19,
+        "prob": 0.12157456616254413
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 13,
+        "prob": 0.14544059489072236
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "num_chains": 6,
+        "prob": 0.1468051595275586
+      },
+      {
+        "state": [
+          9,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.12376894769401885
+      },
+      {
+        "state": [
+          10,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.09112641706037805
+      }
+    ]
+  },
+  {
+    "i": 10,
+    "j": 6,
+    "p_attacker_win": 0.861091091872207,
+    "num_chains": 1301,
+    "num_absorbing_states": 16,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 1,
+        "prob": 0.0032845186118379836
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 5,
+        "prob": 0.009104487240898365
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 20,
+        "prob": 0.02060625142129696
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 50,
+        "prob": 0.03114065612232284
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 140,
+        "prob": 0.04746685718049333
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 266,
+        "prob": 0.02730613755094348
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 266,
+        "prob": 0.019504383964959626
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 216,
+        "prob": 0.041394222066937617
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 126,
+        "prob": 0.07142377698207183
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 96,
+        "prob": 0.09659864240298735
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 51,
+        "prob": 0.10826864877123372
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 35,
+        "prob": 0.12943098636737635
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 16,
+        "prob": 0.12832588779363016
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "num_chains": 9,
+        "prob": 0.12301382270447109
+      },
+      {
+        "state": [
+          9,
+          0
+        ],
+        "num_chains": 3,
+        "prob": 0.09179439619778051
+      },
+      {
+        "state": [
+          10,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.05133632462075879
+      }
+    ]
+  },
+  {
+    "i": 10,
+    "j": 7,
+    "p_attacker_win": 0.7998329909591375,
+    "num_chains": 2675,
+    "num_absorbing_states": 17,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 1,
+        "prob": 0.0032845186118379836
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 5,
+        "prob": 0.009104487240898365
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 20,
+        "prob": 0.02060625142129696
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 50,
+        "prob": 0.03114065612232284
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 140,
+        "prob": 0.04746685718049333
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 266,
+        "prob": 0.05591131056607575
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 623,
+        "prob": 0.03265292789793723
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 623,
+        "prob": 0.02332351992709802
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 357,
+        "prob": 0.050654272905403294
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 267,
+        "prob": 0.08903665085352262
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 141,
+        "prob": 0.09843767152386411
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 96,
+        "prob": 0.11597173838389048
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 45,
+        "prob": 0.11615211502207937
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 26,
+        "prob": 0.11386017602833823
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "num_chains": 10,
+        "prob": 0.09529206908693111
+      },
+      {
+        "state": [
+          9,
+          0
+        ],
+        "num_chains": 4,
+        "prob": 0.06323706306848195
+      },
+      {
+        "state": [
+          10,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.03386771415952837
+      }
+    ]
+  },
+  {
+    "i": 10,
+    "j": 8,
+    "p_attacker_win": 0.7239699784664874,
+    "num_chains": 4797,
+    "num_absorbing_states": 18,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          8
+        ],
+        "num_chains": 1,
+        "prob": 0.0032845186118379836
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 5,
+        "prob": 0.009104487240898365
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 20,
+        "prob": 0.02060625142129696
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 50,
+        "prob": 0.03114065612232284
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 140,
+        "prob": 0.04746685718049333
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 266,
+        "prob": 0.05591131056607575
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 623,
+        "prob": 0.07046566568210201
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 1016,
+        "prob": 0.038050274708485356
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 1016,
+        "prob": 0.027178767648918113
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 750,
+        "prob": 0.05563533193123902
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 393,
+        "prob": 0.0907413788212616
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 267,
+        "prob": 0.10630961953253712
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 126,
+        "prob": 0.10644812566467403
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 75,
+        "prob": 0.10755662242638996
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 30,
+        "prob": 0.0929982672074684
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "num_chains": 14,
+        "prob": 0.07253442891248332
+      },
+      {
+        "state": [
+          9,
+          0
+        ],
+        "num_chains": 4,
+        "prob": 0.045487963822288355
+      },
+      {
+        "state": [
+          10,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.019079472499227482
+      }
+    ]
+  },
+  {
+    "i": 10,
+    "j": 9,
+    "p_attacker_win": 0.6500597622438719,
+    "num_chains": 8953,
+    "num_absorbing_states": 19,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          9
+        ],
+        "num_chains": 1,
+        "prob": 0.0032845186118379836
+      },
+      {
+        "state": [
+          0,
+          8
+        ],
+        "num_chains": 5,
+        "prob": 0.009104487240898365
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 20,
+        "prob": 0.02060625142129696
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 50,
+        "prob": 0.03114065612232284
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 140,
+        "prob": 0.04746685718049333
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 266,
+        "prob": 0.05591131056607575
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 623,
+        "prob": 0.07046566568210201
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 1016,
+        "prob": 0.07195455072184347
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 2123,
+        "prob": 0.040005940209257455
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 2123,
+        "prob": 0.02857567157804104
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 1107,
+        "prob": 0.06044074814051657
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 750,
+        "prob": 0.09841932976783194
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 357,
+        "prob": 0.09874741969331945
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 216,
+        "prob": 0.10128280031144016
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 90,
+        "prob": 0.09030286097618498
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 45,
+        "prob": 0.07542258907121366
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "num_chains": 15,
+        "prob": 0.05437228960804617
+      },
+      {
+        "state": [
+          9,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.02990890110125975
+      },
+      {
+        "state": [
+          10,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.01258715199601813
+      }
+    ]
+  },
+  {
+    "i": 10,
+    "j": 10,
+    "p_attacker_win": 0.5675928721351304,
+    "num_chains": 14766,
+    "num_absorbing_states": 20,
+    "absorbing_states": [
+      {
+        "state": [
+          0,
+          10
+        ],
+        "num_chains": 1,
+        "prob": 0.0032845186118379836
+      },
+      {
+        "state": [
+          0,
+          9
+        ],
+        "num_chains": 5,
+        "prob": 0.009104487240898365
+      },
+      {
+        "state": [
+          0,
+          8
+        ],
+        "num_chains": 20,
+        "prob": 0.02060625142129696
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "num_chains": 50,
+        "prob": 0.03114065612232284
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "num_chains": 140,
+        "prob": 0.04746685718049333
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "num_chains": 266,
+        "prob": 0.05591131056607575
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "num_chains": 623,
+        "prob": 0.07046566568210201
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "num_chains": 1016,
+        "prob": 0.07195455072184347
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "num_chains": 2123,
+        "prob": 0.08077597909314654
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "num_chains": 3139,
+        "prob": 0.04169685122485234
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "num_chains": 3139,
+        "prob": 0.029783465160608813
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "num_chains": 2123,
+        "prob": 0.05928460033966206
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "num_chains": 1016,
+        "prob": 0.09237774510602273
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "num_chains": 623,
+        "prob": 0.09596811247328206
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "num_chains": 266,
+        "prob": 0.08714604322273829
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "num_chains": 140,
+        "prob": 0.07673136287034671
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "num_chains": 50,
+        "prob": 0.05900297974518066
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "num_chains": 20,
+        "prob": 0.03907519068246604
+      },
+      {
+        "state": [
+          9,
+          0
+        ],
+        "num_chains": 5,
+        "prob": 0.02113236488014618
+      },
+      {
+        "state": [
+          10,
+          0
+        ],
+        "num_chains": 1,
+        "prob": 0.00709100765467688
+      }
+    ]
+  }
+]
